@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "title": "PRODUCTO DE ASEO",
+    "description": "PRODUCTO DE ASEO PERSONAL",
+    "price": 10000,
+    "thumbnails": "C://DOCUMENTS//LOGO",
+    "code": "MED001",
+    "stock": 20,
+    "status": true,
+    "category": "ASEO PERSONAL"
+  },
+  {
+    "id": 1,
+    "title": "PRODUCTO TECNOLOGICO",
+    "description": "TELEVISOR TV 32",
+    "price": 25000,
+    "thumbnails": [
+      "C://DOCUMENTS/LOGO.PNG",
+      "HTTPS://WWW.IMAGEPRODUCT.PNG"
+    ],
+    "code": "MED0045",
+    "stock": 20,
+    "status": true,
+    "category": "PRODUCTOS TECNOLOGICOS"
+  },
+  {
+    "id": 2,
+    "title": "PRODUCTO HOGAR",
+    "description": "MESA COMEDAOR",
+    "price": 27000,
+    "thumbnails": [
+      "C://DOCUMENTS/LOGO.PNG",
+      "HTTPS://WWW.IMAGEPRODUCT.PNG"
+    ],
+    "code": "MED0046",
+    "stock": 20,
+    "status": true,
+    "category": "PRODUCTOS HOGAR"
+  },
+  {
+    "id": 3,
+    "title": "PRODUCTO ESCOLAR",
+    "description": "LAPIZ",
+    "price": 2700,
+    "thumbnails": [
+      "C://DOCUMENTS/LOGO.PNG",
+      "HTTPS://WWW.IMAGEPRODUCT.PNG"
+    ],
+    "code": "MED00",
+    "stock": 20,
+    "status": true,
+    "category": "PRODUCTOS ESCOLARES"
+  },
+  {
+    "id": 4,
+    "title": "PRODUCTO ESCOLAR",
+    "description": "CUADERNO DOBLE RALLA",
+    "price": 8700,
+    "thumbnails": [
+      "C://DOCUMENTS/LOGO.PNG",
+      "HTTPS://WWW.IMAGEPRODUCT.PNG"
+    ],
+    "code": "MED78",
+    "stock": 20,
+    "status": true,
+    "category": "PRODUCTOS ESCOLARES"
+  },
+  {
+    "id": 5,
+    "title": "PRODUCTO ESCOLAR",
+    "description": "MALETA",
+    "price": 8700,
+    "thumbnails": [
+      "C://DOCUMENTS/LOGO.PNG",
+      "HTTPS://WWW.IMAGEPRODUCT.PNG"
+    ],
+    "code": "M0078",
+    "stock": 20,
+    "status": true,
+    "category": "PRODUCTOS ESCOLARES"
+  }
+]

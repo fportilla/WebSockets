@@ -1,0 +1,34 @@
+<div class="contenedor">
+
+    <div class="create_Product">
+
+        <form class="form">
+            <div class="header"> Datos Del Producto</div>
+            <div class="inputs">
+                <input id="title" name="title" placeholder="Nombre Producto" class="input" type="text" required>
+                <input id="description" name="description" placeholder="Descripcion Del Producto" class="input"
+                    type="text">
+                <input id="price" name="price" placeholder="Precio Producto" class="input" type="number">
+                <input id="thumbnails" name="thumbnails" placeholder="url imagen referencia" class="input" type="text">
+                <input id="code" name="code" placeholder="Codigo Producto" class="input" type="number" required>
+                <input id="stock" name="stock" placeholder="ingresa cantidad" class="input" type="number">
+                <input id="category" name="category" placeholder="Ingresa Categoria" class="input" type="text" required>
+                <button class="sigin-btn">Crear</button>
+
+            
+            </div>
+        </form>
+    </div>
+
+    <div class="list_Product" id="list_Product">
+        
+        
+    </div>
+</div>
+
+
+
+
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/listProducts.js"></script>
